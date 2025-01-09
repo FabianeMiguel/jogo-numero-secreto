@@ -26,7 +26,7 @@ O aplicativo tem como objetivo:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/jogo-numero-secreto.git
+   git@github.com:FabianeMiguel/jogo-numero-secreto.git
    ```
 2. Acesse o diretório do projeto:
    ```bash
